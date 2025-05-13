@@ -28,7 +28,7 @@ export default function About() {
                 and tutorials on various programming languages and technologies.
                 I believe that learning should be a continuous journey, and I am
                 here to help others on their path to mastering the art of
-                coding.&#34;
+                coding.
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
                 Whether you are just starting out or looking to sharpen your
