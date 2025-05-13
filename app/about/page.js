@@ -21,7 +21,7 @@ export default function About() {
             <div className="w-full md:w-2/3 flex flex-col justify-center ">
               <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">About Me</h1>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                Hello! I am Hritik, a passionate software developer and tech enthusiast. I created this blog to share my experiences, tips, and tutorials on various programming languages and technologies. I believe that learning should be a continuous journey, and I am here to help others on their path to mastering the art of coding.
+                Hello! I am Hritik, a passionate software developer and tech enthusiast. I created this blog to share my experiences, tips, and tutorials on various programming languages and technologies. I believe that learning should be a continuous journey, and I am here to help others on their path to mastering the art of coding.&#34;
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
                 Whether you are just starting out or looking to sharpen your skills, you will find a variety of resources and insights here. Let us explore the world of programming together!
